@@ -3,7 +3,7 @@
 Here we have transfered the information and code for each of the figures that was worked on in Google Collab
 
 
-Group Members:
+Group Members: <br/>
 Facilitator - Arielys Pacheco Jiménez <br/>
 Spokesperson - Gilberto E. Cancel Morales <br/>
 Quality Control - Nelson Rodriguez <br/>
