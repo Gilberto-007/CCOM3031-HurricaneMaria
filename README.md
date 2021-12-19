@@ -4,10 +4,10 @@ Here we have transfered the information and code for each of the figures that wa
 
 
 Group Members:
-Facilitator - Arielys Pacheco Jiménez
-Spokesperson - Gilberto E. Cancel Morales
-Quality Control - Nelson Rodriguez
-Process Analyst - Arvin Torres Melendez
+Facilitator - Arielys Pacheco Jiménez/n
+Spokesperson - Gilberto E. Cancel Morales/n
+Quality Control - Nelson Rodriguez/n
+Process Analyst - Arvin Torres Melendez/n
 
 
 Google collab: https://colab.research.google.com/drive/18qoejbmVIG-nA4ksNxmICpsXJRq7fw4f?usp=sharing
